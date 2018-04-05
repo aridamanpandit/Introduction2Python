@@ -1,7 +1,7 @@
 # Introduction2Python
 
 # Introduction to Python for Life Sciences
-Jupyter notebooks for the MSc introduction to python course.
+Jupyter notebooks for the MSc/PhD Introduction to Python course.
 A one week course that handles the basics of python with examples from the Life Sciences field.
 
 ### NOTE: This a Python 2.7 course
