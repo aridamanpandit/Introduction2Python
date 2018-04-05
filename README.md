@@ -32,4 +32,4 @@ http://jupyter.readthedocs.io/en/latest/install.html
 Coming soon
 
 * Day 1
-  * Welcome: https://drive.google.com/file/d/0B-Z60zotogd1UkZUNlJBaFlsZk0/view?usp=sharing
+  * Welcome: https://drive.google.com/open?id=1PA43LNpaWpytERMUf56EMP-MaNuC-oWo
