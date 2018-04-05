@@ -6,9 +6,13 @@ A one week course that handles the basics of python with examples from the Life 
 
 ### NOTE: This a Python 2.7 course
 
+To install  Python and Jupyter notebook follow the instructions given in the following tutorial:
+https://drive.google.com/open?id=1Za5Tv-qo6d9YELSkK_GiVNtVjoz-WNCa
+
+Alternatively you can check the following links:
+
 ## Visualise the execution of your code
 http://pythontutor.com/visualize.html#mode=edit
-
 
 ## Installing Jupyter locally
 http://jupyter.readthedocs.io/en/latest/install.html
