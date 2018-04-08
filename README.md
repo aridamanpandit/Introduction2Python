@@ -36,4 +36,5 @@ http://jupyter.readthedocs.io/en/latest/install.html
 ## Links to slides
 
 Day 1:
+
 Introduction: https://drive.google.com/open?id=1RAfIz_lThmv-KUJ0wOrhUN5o9_qM49P4
