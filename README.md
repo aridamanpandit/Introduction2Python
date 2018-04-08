@@ -38,3 +38,4 @@ http://jupyter.readthedocs.io/en/latest/install.html
 #### Day 1:
 
 - **Introduction**: https://drive.google.com/open?id=1RAfIz_lThmv-KUJ0wOrhUN5o9_qM49P4
+- **Strings and loops**: https://drive.google.com/open?id=1Tkbx4o2mKdbjDyNKTob4SX2vxkwXUwIj
