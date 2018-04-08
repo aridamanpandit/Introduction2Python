@@ -34,4 +34,6 @@ http://jupyter.readthedocs.io/en/latest/install.html
 | 15:30-16:30 | Wrap-up | Wrap-up | Wrap-up | Wrap-up | - | 
 
 ## Links to slides
-Coming soon
+
+Day 1:
+Introduction: https://drive.google.com/open?id=1RAfIz_lThmv-KUJ0wOrhUN5o9_qM49P4
