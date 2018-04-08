@@ -32,9 +32,17 @@ http://jupyter.readthedocs.io/en/latest/install.html
 | 13:00-15:30 | Boolean & Loops | Dictionary | Plotting | Files & Parsing | Exam |
 | 15:30-16:30 | Wrap-up | Wrap-up | Wrap-up | Wrap-up | - | 
 
-## Links to slides and Notebooks
+## Links to slides and notebooks
 
 #### Day 1:
 
 - **Introduction**: https://drive.google.com/open?id=1RAfIz_lThmv-KUJ0wOrhUN5o9_qM49P4
 - **Strings and loops**: https://drive.google.com/open?id=1Tkbx4o2mKdbjDyNKTob4SX2vxkwXUwIj
+
+
+
+## Links to notebooks
+
+#### Day 1:
+
+- **Notebook**: https://drive.google.com/open?id=1W1_hfgz6-jWVQQQWqaivjKDnS5UWmPWD
