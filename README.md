@@ -23,7 +23,6 @@ http://jupyter.readthedocs.io/en/latest/install.html
 4. Happy coding
 
 
-
 # Course schedule
 | Time slot   | Mon 9 | Tue 10 | Wed 11 | Thu 12 | Fri 13 |
 | --- | --- | --- | --- | --- | --- |
@@ -33,7 +32,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 | 13:00-15:30 | Boolean & Loops | Dictionary | Plotting | Files & Parsing | Exam |
 | 15:30-16:30 | Wrap-up | Wrap-up | Wrap-up | Wrap-up | - | 
 
-## Links to slides
+## Links to slides and Notebooks
 
 #### Day 1:
 
