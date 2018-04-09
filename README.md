@@ -39,6 +39,10 @@ http://jupyter.readthedocs.io/en/latest/install.html
 - **Introduction**: https://drive.google.com/open?id=1RAfIz_lThmv-KUJ0wOrhUN5o9_qM49P4
 - **Strings and loops**: https://drive.google.com/open?id=1Tkbx4o2mKdbjDyNKTob4SX2vxkwXUwIj
 
+#### Day 2:
+
+- **Lists and Tuples**: Coming Soon
+- **Dictionary**: Coming Soon
 
 
 ## Links to notebooks
@@ -46,3 +50,12 @@ http://jupyter.readthedocs.io/en/latest/install.html
 #### Day 1:
 
 - **Notebook**: https://drive.google.com/open?id=1W1_hfgz6-jWVQQQWqaivjKDnS5UWmPWD
+- **Solutions**: https://drive.google.com/open?id=1hJxKaawihpUU90mom7AV2iehwP-63WDa
+
+#### Day 2:
+
+- **Notebook 2A**: Coming Soon
+- **Solutions 2A**: 
+
+- **Notebook 2B**: Coming Soon
+- **Solutions 2B**: 
