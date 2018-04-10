@@ -41,7 +41,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 
 #### Day 2:
 
-- **Lists and Tuples**: Coming Soon
+- **Lists and Tuples**: https://drive.google.com/open?id=1NiMrY1zXK-t8-fzXViWnNq31ba3kAkCR
 - **Dictionary**: Coming Soon
 
 
@@ -54,7 +54,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 
 #### Day 2:
 
-- **Notebook 2A**: Coming Soon
+- **Notebook 2A**: https://drive.google.com/open?id=1ybI5EOtkSyyHrWZMgI28oeGAK175obtt
 - **Solutions 2A**: 
 
 - **Notebook 2B**: Coming Soon
