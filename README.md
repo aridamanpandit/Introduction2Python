@@ -44,6 +44,11 @@ http://jupyter.readthedocs.io/en/latest/install.html
 - **Lists and Tuples**: https://drive.google.com/open?id=1NiMrY1zXK-t8-fzXViWnNq31ba3kAkCR
 - **Dictionary**: https://drive.google.com/open?id=1MJAv8-1WzsFczxifalGHXE4tHYlbLMED
 
+#### Day 3:
+
+- **Functions and Modules**: Coming soon
+- **Plotting**: Coming soon
+
 
 ## Links to notebooks
 
@@ -55,7 +60,15 @@ http://jupyter.readthedocs.io/en/latest/install.html
 #### Day 2:
 
 - **Notebook 2A**: https://drive.google.com/open?id=1ybI5EOtkSyyHrWZMgI28oeGAK175obtt
-- **Solutions 2A**: 
+- **Solutions 2A**: https://drive.google.com/open?id=11se9LV-LGcKxVS5c8S1kGxgZeXyGBm44
 
 - **Notebook 2B**: https://drive.google.com/open?id=1ejK3Q8DvaFa9amQSEKfVK46KFYEwe96d
-- **Solutions 2B**: 
+- **Solutions 2B**: https://drive.google.com/open?id=1sP-_KGzv3TB1J1f_yo2VOMg1mPAgI6qL
+
+#### Day 3:
+
+- **Notebook 3A**: Coming soon
+- **Solutions 3A**: Coming soon
+
+- **Notebook 3B**: Coming soon
+- **Solutions 3B**: Coming soon
