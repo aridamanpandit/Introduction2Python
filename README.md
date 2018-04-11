@@ -49,6 +49,11 @@ http://jupyter.readthedocs.io/en/latest/install.html
 - **Functions and Modules**: https://drive.google.com/open?id=1aSi8_Wy6-9duC6YtIYBecpIcszclFx7k
 - **Plotting**: https://drive.google.com/open?id=1phRn-cilStHrf6u-eLimcw_DP_hc6_78
 
+#### Day 4:
+
+- **Regular Expressions**: Coming soon
+- **Files**: Coming soon
+
 
 ## Links to notebooks
 
@@ -69,7 +74,17 @@ http://jupyter.readthedocs.io/en/latest/install.html
 
 - **Notebook 3A**: https://drive.google.com/open?id=1t4EodWgqEfDzZpaKkaKbLNMKz4f6Q4ix
 - **DNA tools**: https://drive.google.com/open?id=1ExHS0CTm71jzm6YBT-AZAtY5oos9B1u1
-- **Solutions 3A**: Coming soon
+- **Solutions 3A**: https://drive.google.com/open?id=1ku19dpAoi3CR5zxdNIHQE8B7oKBTADL9
 
 - **Notebook 3B**: https://drive.google.com/open?id=14Ou2Fsq1omk3EIlp33bU7QmRsVw9hVtK
-- **Solutions 3B**: Coming soon
+- **Solutions 3B**: https://drive.google.com/open?id=1ySs887QPw2m8smxOHoXFxOKj4iB9JyRN
+
+#### Day 4:
+
+- **Notebook 4A**: Coming soon
+- **Solutions 4A**: Coming soon
+
+- **Notebook 4B**: Coming soon
+- **Solutions 4B**: Coming soon
+
+
