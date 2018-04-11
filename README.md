@@ -47,7 +47,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 #### Day 3:
 
 - **Functions and Modules**: https://drive.google.com/open?id=1aSi8_Wy6-9duC6YtIYBecpIcszclFx7k
-- **Plotting**: Coming soon
+- **Plotting**: https://drive.google.com/open?id=1phRn-cilStHrf6u-eLimcw_DP_hc6_78
 
 
 ## Links to notebooks
