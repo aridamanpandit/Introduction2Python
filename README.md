@@ -67,7 +67,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 
 #### Day 3:
 
-- **Notebook 3A**: Coming soon
+- **Notebook 3A**: https://drive.google.com/open?id=1t4EodWgqEfDzZpaKkaKbLNMKz4f6Q4ix
 - **Solutions 3A**: Coming soon
 
 - **Notebook 3B**: Coming soon
