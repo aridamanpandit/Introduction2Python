@@ -71,5 +71,5 @@ http://jupyter.readthedocs.io/en/latest/install.html
 - **DNA tools**: https://drive.google.com/open?id=1ExHS0CTm71jzm6YBT-AZAtY5oos9B1u1
 - **Solutions 3A**: Coming soon
 
-- **Notebook 3B**: Coming soon
+- **Notebook 3B**: https://drive.google.com/open?id=14Ou2Fsq1omk3EIlp33bU7QmRsVw9hVtK
 - **Solutions 3B**: Coming soon
