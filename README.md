@@ -52,7 +52,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 #### Day 4:
 
 - **Regular Expressions**: https://drive.google.com/open?id=1lcBU88F8TN5anHxGFxYFFxO_rwvnB0Tm
-- **Files**: Coming soon
+- **Files**: https://drive.google.com/open?id=1Kco-U3qNXrZT2AWiY7FS1Tdk3QYb6_5w
 - **Quiz**: http://introtopython.presenterswall.nl/#/questions
 
 
