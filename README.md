@@ -87,7 +87,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 #### Day 4:
 
 - **Notebook 4A**: https://drive.google.com/open?id=1yMbdZw32XLwCWpL00gE-Xb0XkD_hju0B
-- **Solutions 4A**: Coming soon
+- **Solutions 4A**: https://drive.google.com/open?id=1NkPMI83FBsb29x9tYr7g1JnMYApjopq4
 
 - **Notebook 4B**: https://drive.google.com/open?id=1cB58jEgn3E_2QZuaQKjl0Z_9Gn3UkQha
 - **Solutions 4B**: Coming soon
