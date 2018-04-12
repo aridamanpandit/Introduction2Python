@@ -88,6 +88,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 
 - **Notebook 4B**: https://drive.google.com/open?id=1cB58jEgn3E_2QZuaQKjl0Z_9Gn3UkQha
 - **Solutions 4B**: Coming soon
+- **excercise.bed**: https://drive.google.com/open?id=1GbVwgqBchs_9C-3wFU7YH0yQ4BgazOaT
 
 - **Bonus question**: https://drive.google.com/open?id=1I4a5lX-ugLCYPqO67TUwpyIAhea-2fNq
 - **Genome.fa**: https://drive.google.com/open?id=1Sdd4HsBNFtJSFW6MeEqG_-568HEVTV3T 
