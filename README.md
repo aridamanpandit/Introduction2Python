@@ -56,6 +56,9 @@ http://jupyter.readthedocs.io/en/latest/install.html
 - **Quiz**: http://introtopython.presenterswall.nl/#/questions
 - **Bonus Question**: https://drive.google.com/open?id=10DDMVXn-DDehlWdS0TlG4E2BzPS1DG2C
 
+#### Day 5:
+- **Ensembl**: Coming soon
+
 
 ## Links to notebooks
 
@@ -90,7 +93,10 @@ http://jupyter.readthedocs.io/en/latest/install.html
 - **Solutions 4B**: Coming soon
 - **excercise.bed**: https://drive.google.com/open?id=1GbVwgqBchs_9C-3wFU7YH0yQ4BgazOaT
 
+
 - **Bonus question**: https://drive.google.com/open?id=1I4a5lX-ugLCYPqO67TUwpyIAhea-2fNq
 - **Genome.fa**: https://drive.google.com/open?id=1Sdd4HsBNFtJSFW6MeEqG_-568HEVTV3T 
+- **Solution to bonus question**: https://drive.google.com/open?id=1UeZFosy2qyyrJ2eDGQirUqPfNpueu09P
 
-
+#### Day 5:
+- **Ensembl**: Coming soon
