@@ -54,6 +54,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 - **Regular Expressions**: https://drive.google.com/open?id=1lcBU88F8TN5anHxGFxYFFxO_rwvnB0Tm
 - **Files**: https://drive.google.com/open?id=1Kco-U3qNXrZT2AWiY7FS1Tdk3QYb6_5w
 - **Quiz**: http://introtopython.presenterswall.nl/#/questions
+- **Bonus Question**: https://drive.google.com/open?id=10DDMVXn-DDehlWdS0TlG4E2BzPS1DG2C
 
 
 ## Links to notebooks
