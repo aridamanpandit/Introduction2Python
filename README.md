@@ -53,6 +53,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 
 - **Regular Expressions**: Coming soon
 - **Files**: Coming soon
+- **Quiz**: http://introtopython.presenterswall.nl/#/questions
 
 
 ## Links to notebooks
