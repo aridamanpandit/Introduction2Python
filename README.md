@@ -90,7 +90,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 - **Solutions 4A**: https://drive.google.com/open?id=1NkPMI83FBsb29x9tYr7g1JnMYApjopq4
 
 - **Notebook 4B**: https://drive.google.com/open?id=1cB58jEgn3E_2QZuaQKjl0Z_9Gn3UkQha
-- **Solutions 4B**: Coming soon
+- **Solutions 4B**: https://drive.google.com/open?id=13NSX2VgCWMIRYP7SoWW_K7o8h4XDNsuq
 - **excercise.bed**: https://drive.google.com/open?id=1GbVwgqBchs_9C-3wFU7YH0yQ4BgazOaT
 
 
