@@ -90,5 +90,6 @@ http://jupyter.readthedocs.io/en/latest/install.html
 - **Solutions 4B**: Coming soon
 
 - **Bonus question**: https://drive.google.com/open?id=1I4a5lX-ugLCYPqO67TUwpyIAhea-2fNq
+- **Genome.fa**: https://drive.google.com/open?id=1Sdd4HsBNFtJSFW6MeEqG_-568HEVTV3T 
 
 
