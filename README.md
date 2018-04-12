@@ -51,7 +51,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 
 #### Day 4:
 
-- **Regular Expressions**: Coming soon
+- **Regular Expressions**: https://drive.google.com/open?id=1lcBU88F8TN5anHxGFxYFFxO_rwvnB0Tm
 - **Files**: Coming soon
 - **Quiz**: http://introtopython.presenterswall.nl/#/questions
 
@@ -82,7 +82,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 
 #### Day 4:
 
-- **Notebook 4A**: Coming soon
+- **Notebook 4A**: https://drive.google.com/open?id=1yMbdZw32XLwCWpL00gE-Xb0XkD_hju0B
 - **Solutions 4A**: Coming soon
 
 - **Notebook 4B**: Coming soon
