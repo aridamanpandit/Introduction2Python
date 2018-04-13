@@ -57,7 +57,7 @@ http://jupyter.readthedocs.io/en/latest/install.html
 - **Bonus Question**: https://drive.google.com/open?id=10DDMVXn-DDehlWdS0TlG4E2BzPS1DG2C
 
 #### Day 5:
-- **Ensembl**: Coming soon
+- **Ensembl**: https://drive.google.com/open?id=1H7faESsyRLtV7bnn4wVWXHWk4QSngf7e
 
 
 ## Links to notebooks
@@ -99,4 +99,5 @@ http://jupyter.readthedocs.io/en/latest/install.html
 - **Solution to bonus question**: https://drive.google.com/open?id=1UeZFosy2qyyrJ2eDGQirUqPfNpueu09P
 
 #### Day 5:
-- **Ensembl**: Coming soon
+- **Ensembl**: https://drive.google.com/open?id=12ybfJupSspyzRxluSlHvIqzuARS5RWfi
+- **json.txt**: https://drive.google.com/open?id=1gL0AW0Xwct8GSOCSlUbrWknVxLXYmpqU
