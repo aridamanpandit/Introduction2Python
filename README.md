@@ -104,8 +104,6 @@ http://jupyter.readthedocs.io/en/latest/install.html
 
 ## Link to Assignment
 
-##Assignment Question## https://drive.google.com/open?id=1pbN9su307rWY6J0YvPpZZ_EA_r8Knr0c
-
-##Organisms.fasta## https://drive.google.com/open?id=1CD3FXKBL-Qo_ma40lXtFC3jh1R3R6vf2
-
-##Sequences.fasta## https://drive.google.com/open?id=10cMZZ113ymdhPXE2aXQ0lNuT_MxLW3D9
+- **Assignment Question**: https://drive.google.com/open?id=1pbN9su307rWY6J0YvPpZZ_EA_r8Knr0c
+- **Organisms.fasta**: https://drive.google.com/open?id=1CD3FXKBL-Qo_ma40lXtFC3jh1R3R6vf2
+- **Sequences.fasta**: https://drive.google.com/open?id=10cMZZ113ymdhPXE2aXQ0lNuT_MxLW3D9
