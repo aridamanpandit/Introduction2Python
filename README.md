@@ -102,6 +102,6 @@ http://jupyter.readthedocs.io/en/latest/install.html
 - **Ensembl**: https://drive.google.com/open?id=12ybfJupSspyzRxluSlHvIqzuARS5RWfi
 - **json.txt**: https://drive.google.com/open?id=1gL0AW0Xwct8GSOCSlUbrWknVxLXYmpqU
 
-## Links to Assignment
+## Link to Assignment
 
 #### https://drive.google.com/open?id=1pbN9su307rWY6J0YvPpZZ_EA_r8Knr0c
